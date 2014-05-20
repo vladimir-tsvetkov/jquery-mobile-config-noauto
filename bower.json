@@ -1,0 +1,21 @@
+{
+  "name": "jquery-mobile-config-noauto",
+  "version": "0.0.1",
+  "authors": [
+    "Vladimir Tsvetkov <npacemo@gmail.com>"
+  ],
+  "description": "When included it disables automatically the jquery-mobile automatic page initialization.",
+  "main": "jqm-config-noauto.js",
+  "keywords": [
+    "jquery",
+    "mobile",
+    "config",
+    "auto",
+    "page",
+    "initialization"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery-mobile-bower": "~1.4.2"
+  }
+}
